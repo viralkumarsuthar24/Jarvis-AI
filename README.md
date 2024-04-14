@@ -1,2 +1,2 @@
-# Jarvis-AI
+# Avian-AI
 This is a speech recognition & AI based assistant.Author: Viral Suthar
